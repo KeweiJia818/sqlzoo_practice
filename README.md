@@ -1,1 +1,1 @@
-# sqlzoo_practice
+# basic sql practice on sqlzoo.net
